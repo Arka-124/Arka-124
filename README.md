@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Arka Datta
+- 👀 I’m interested in machines and their functions
+- 🌱 I’m currently in 12th standard
+- 💞️ I’m looking to collaborate on nothing for now🙂
+- 📫 How to reach me - Just dm me on instagram on mail me arkadatta1531@gmail.com
