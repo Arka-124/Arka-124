@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Arka Datta
 - 👀 I’m interested in machines and their functions
-- 🌱 I’m currently in 12th standard
-- 💞️ I’m looking to collaborate on nothing for now🙂
-- 📫 How to reach me - Just dm me on instagram on mail me arkadatta1531@gmail.com
+- 🌱 I’m currently in 2nd Year at GGSIPU EDC studying Automation and Robotics
+- 💞️ I’m looking to collaborate on Designing or web development🙂
+- 📫 How to reach me - Just mail me arkadatta1531@gmail.com
