@@ -50,7 +50,8 @@ An intelligent chatbot capable of analyzing and discussing movie reviews.
 
 ## 📊 GitHub Stats
 
-[![Arka-124's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arka-124&show_icons=true&theme=radical)]
+[![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka-124)](https://github.com/Arka-124/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-124&layout=compact&theme=radical)]
 ---
 
