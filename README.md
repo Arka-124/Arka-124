@@ -1,4 +1,4 @@
--# Hi there, I'm Arka Datta ! 👋
+- Hi there, I'm Arka Datta ! 👋
 
 ### 🤖 Automation & Robotics Student | Full-Stack Developer | GATE CSE Aspirant
 
