@@ -1,4 +1,4 @@
--# Hi there, I'm [Your Name]! 👋
+-# Hi there, I'm Arka Datta ! 👋
 
 ### 🤖 Automation & Robotics Student | Full-Stack Developer | GATE CSE Aspirant
 
@@ -29,7 +29,7 @@ I am a second-year B.Tech student at **University School of Automation and Robot
 
 ## 🚀 Featured Projects
 
-### 🚆 [VM Website / Railway QR System] (Name this accordingly)
+### 🚆 VM Website
 *A high-performance, full-stack web application designed for complex data management.*
 
 This project was built without relying on heavy frontend frameworks, demonstrating deep knowledge of **Vanilla JavaScript** and **DOM architecture**.
@@ -59,8 +59,7 @@ An intelligent chatbot capable of analyzing and discussing movie reviews.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-profile])
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/[your-profile])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email]@gmail.com)
-- 👋 Hi, my name is Arka Datta
-- 👀 I’m interested in machines and their functions
+
 - 🌱 I’m currently in 2nd Year at GGSIPU EDC studying Automation and Robotics
 - 💞️ I’m looking to collaborate on Designing or web development🙂
 - 📫 How to reach me - Just mail me arkadatta1531@gmail.com
