@@ -48,13 +48,6 @@ An intelligent chatbot capable of analyzing and discussing movie reviews.
 
 ---
 
-## 📊 GitHub Stats
-
-![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka-124&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-124&layout=compact&theme=radical)]
----
-
 ### 📫 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/notagain.arkaaa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkadatta1531@gmail.com)
