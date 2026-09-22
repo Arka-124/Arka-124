@@ -2,7 +2,7 @@
 
 ### 🤖 Automation & Robotics Student | Full-Stack Developer | GATE CSE Aspirant
 
-I am a second-year B.Tech student at **University School of Automation and Robotics (USAR)**, GGSIPU. I bridge the gap between hardware concepts and modern software engineering. My passion lies in building complex, scalable web systems and exploring AI/ML solutions.
+I am a third-year B.Tech student at **University School of Automation and Robotics (USAR)**, GGSIPU. I bridge the gap between hardware concepts and modern software engineering. My passion lies in building complex, scalable web systems and exploring AI/ML solutions.
 
 - 🔭 **Currently working on:** **FogBot** — an autonomous leading rover & IoT command center for NMDC's Smart India Hackathon 2026 problem statement (SIH26007), plus preparing for **GATE CSE 2027**.
 - 💼 **Experience:** AI/ML Intern at **IIT Kanpur** · Big Data Management Intern at **IBM**.
